@@ -5,4 +5,4 @@ class User(AbstractUser):
     tecnico = models.BooleanField(null=True, blank=True)
     
     #kelton
-    
+    #iafbisdv
